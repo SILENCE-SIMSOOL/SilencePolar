@@ -1,5 +1,9 @@
 # SilencePolar 3.4.9 (Minecraft 26.2 Fabric)
 
+<img width="895" height="280" alt="image" src="https://github.com/user-attachments/assets/e686bbf5-cd2f-4211-a70f-3fcbf20baf91" />
+
+<img width="1495" height="951" alt="image" src="https://github.com/user-attachments/assets/d3a24bf7-ac40-471a-88b5-a88296f41865" />
+
 ## Requirements
 - Windows
 - Minecraft 26.2 (Fabric)
