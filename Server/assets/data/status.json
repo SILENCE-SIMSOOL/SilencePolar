@@ -1,0 +1,66 @@
+{
+  "Auto Forge": {
+    "status": "SAFE",
+    "icon": "<:forge:1512124818093248643>"
+  },
+  "Auto Mineshaft": {
+    "status": "SAFE",
+    "icon": "<:mineshaft:1512124799160418366>"
+  },
+  "Berberis Macro": {
+    "status": "SAFE",
+    "icon": "<:berberis:1512118800068251658>"
+  },
+  "Caducous Macro": {
+    "status": "SAFE",
+    "icon": "<:caducous:1512118782946971648>"
+  },
+  "Combat Macro": {
+    "status": "SAFE",
+    "icon": "<:combat:1512118815368941579>"
+  },
+  "Cruxes Macro": {
+    "status": "SAFE",
+    "icon": "<:cruxes:1512119253162266695>"
+  },
+  "Dojo Macro": {
+    "status": "SAFE",
+    "icon": ""
+  },
+  "Dwarven Commission Macro": {
+    "status": "SAFE",
+    "icon": "<:dwarven:1363314779401490625>"
+  },
+  "Excavator Macro": {
+    "status": "SAFE",
+    "icon": "<:excavator:1427462613176160428>"
+  },
+  "Gemstone Macro": {
+    "status": "SAFE",
+    "icon": "<:gemstone:1363314780190019694>"
+  },
+  "Glacite Commission Macro": {
+    "status": "SAFE",
+    "icon": "<:glacite:1363314780927951111>"
+  },
+  "Mining Bot": {
+    "status": "SAFE",
+    "icon": "<:diamond:1375081726644326430>"
+  },
+  "Mote Macro": {
+    "status": "SAFE",
+    "icon": "<:mote:1512118753989492736>"
+  },
+  "Powder Macro": {
+    "status": "SAFE",
+    "icon": "<:powder:1218253571536064734>"
+  },
+  "Sludge Macro": {
+    "status": "SAFE",
+    "icon": "<:sludge:1512118844246986812>"
+  },
+  "Timite Macro": {
+    "status": "SAFE",
+    "icon": "<:timite:1512118998723068007>"
+  }
+}

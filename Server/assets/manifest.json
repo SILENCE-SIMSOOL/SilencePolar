@@ -1,0 +1,329 @@
+{
+  "manifestVersion": 1,
+  "version": "probe-rekeyed5",
+  "channel": "release",
+  "assets": [
+    {
+      "name": "skija-windows-x64-0.143.17.jar",
+      "hash": "7178c082ec5ee800353f8740e6a3eee743240cfd9b1ed1494baebe4034b269bd",
+      "type": "LIBRARY",
+      "platform": "WIN_X64",
+      "size": 10557374,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400beeb"
+    },
+    {
+      "name": "lwjgl-nanovg-3.4.1.jar",
+      "hash": "afdb36a2d747332c80a8feb33e165b5d781dea562723ad6425101cf026b9c26e",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 82982,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400bef0"
+    },
+    {
+      "name": "lwjgl-nanovg-3.4.1-natives-windows.jar",
+      "hash": "880ae03ccdf9dbc0b3883002a423655ddc77480a2f7841cd2a62be8a5a340e25",
+      "type": "LIBRARY",
+      "platform": "WIN_X64",
+      "size": 244005,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400bef1"
+    },
+    {
+      "name": "DiscordIPC-master.jar",
+      "hash": "a5c31bfa31e8a33f1253b35649a3ef516fca5f3cb4859a5abf85abd4f4f5f6e8",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 28613,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400bef5"
+    },
+    {
+      "name": "skija-shared-0.143.17.jar",
+      "hash": "6213e04a09853ff4a2a2ddc63554981bc5f57aa82cc795f4cd9167aca7edb042",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 388825,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400bef6"
+    },
+    {
+      "name": "lwjgl-3.4.1.jar",
+      "hash": "9b1c3a3a078c2377219ecb8a2662730b3dece07c10592cf1d12f957286037b69",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 1157957,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400bef7"
+    },
+    {
+      "name": "json-20231013.jar",
+      "hash": "0f18192df289114e17aa1a0d0a7f8372cc9f5c7e4f7e39adcf8906fe714fa7d3",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 74702,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400bef8"
+    },
+    {
+      "name": "slf4j-api-2.0.7.jar",
+      "hash": "5d6298b93a1905c32cda6478808ac14c2d4a47e91535e53c41f7feeb85d946f4",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 63635,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400bef9"
+    },
+    {
+      "name": "junixsocket-common-2.9.0.jar",
+      "hash": "1f11fe54a7dfb0e410e24e787d33b48c07e7f4fe6514f49b63d60fd7b4770787",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 1124059,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400befa"
+    },
+    {
+      "name": "junixsocket-native-common-2.9.0.jar",
+      "hash": "03e9c1dbe920e4126877825bbe466bc6353b94017facfe337c57f4a8caa7eac3",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 722053,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400befb"
+    },
+    {
+      "name": "types-0.2.0.jar",
+      "hash": "38d94d00770c4f261ffb50ee68d5da853c416c8fe7c57842f0e28049fc26cca8",
+      "type": "LIBRARY",
+      "platform": "ANY",
+      "size": 16218,
+      "required": true,
+      "members": [],
+      "_id": "6aba872dac16bfda8400befc"
+    },
+    {
+      "name": "script-banners",
+      "hash": "ba644e09a753a670e9a46986e09487ce6de9aab35638676cbcdb75e20060e539",
+      "type": "BUNDLE",
+      "platform": "ANY",
+      "size": 31169190,
+      "required": false,
+      "members": [
+        {
+          "name": "script-banners/Agaricus",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400befe"
+        },
+        {
+          "name": "script-banners/AntiAFK",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400beff"
+        },
+        {
+          "name": "script-banners/ArrowDude",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf00"
+        },
+        {
+          "name": "script-banners/Berberis",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf01"
+        },
+        {
+          "name": "script-banners/Caducous",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf02"
+        },
+        {
+          "name": "script-banners/City",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf03"
+        },
+        {
+          "name": "script-banners/Colleseum",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf04"
+        },
+        {
+          "name": "script-banners/Combat",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf05"
+        },
+        {
+          "name": "script-banners/DwarvenComm",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf06"
+        },
+        {
+          "name": "script-banners/Excavator",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf07"
+        },
+        {
+          "name": "script-banners/Gemstone",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf08"
+        },
+        {
+          "name": "script-banners/GlaciteComm",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf09"
+        },
+        {
+          "name": "script-banners/HeartMiner",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf0a"
+        },
+        {
+          "name": "script-banners/IceAreaMine",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf0b"
+        },
+        {
+          "name": "script-banners/LeechBoss",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf0c"
+        },
+        {
+          "name": "script-banners/LobbyHopper",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf0d"
+        },
+        {
+          "name": "script-banners/Lushlilac",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf0e"
+        },
+        {
+          "name": "script-banners/MODTools",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf0f"
+        },
+        {
+          "name": "script-banners/MiningBot",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf10"
+        },
+        {
+          "name": "script-banners/Motes",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf11"
+        },
+        {
+          "name": "script-banners/MountainTop",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf12"
+        },
+        {
+          "name": "script-banners/Powder",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf13"
+        },
+        {
+          "name": "script-banners/Rabbit",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf14"
+        },
+        {
+          "name": "script-banners/RifthackerMan",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf15"
+        },
+        {
+          "name": "script-banners/RouteEditor",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf16"
+        },
+        {
+          "name": "script-banners/RouteWalker",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf17"
+        },
+        {
+          "name": "script-banners/Scribe",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf18"
+        },
+        {
+          "name": "script-banners/Sludge",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf19"
+        },
+        {
+          "name": "script-banners/Timite",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf1a"
+        },
+        {
+          "name": "script-banners/TinyDancer",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf1b"
+        },
+        {
+          "name": "script-banners/TreeArea",
+          "type": "IMAGE",
+          "_id": "6aba872dac16bfda8400bf1c"
+        }
+      ],
+      "_id": "6aba872dac16bfda8400befd"
+    },
+    {
+      "name": "failsafe-audio",
+      "hash": "e6b3077a7f59c4b3b00ede35e3a469f57eed41441a506ea5bdda34af32594a9a",
+      "type": "BUNDLE",
+      "platform": "ANY",
+      "size": 2306602,
+      "required": false,
+      "members": [
+        {
+          "name": "failsafe-audio/808-check",
+          "type": "RAW",
+          "_id": "6aba872dac16bfda8400bf1e"
+        },
+        {
+          "name": "failsafe-audio/ai-check",
+          "type": "RAW",
+          "_id": "6aba872dac16bfda8400bf1f"
+        },
+        {
+          "name": "failsafe-audio/brainwaves-check",
+          "type": "RAW",
+          "_id": "6aba872dac16bfda8400bf20"
+        },
+        {
+          "name": "failsafe-audio/france-check",
+          "type": "RAW",
+          "_id": "6aba872dac16bfda8400bf21"
+        },
+        {
+          "name": "failsafe-audio/remix-check",
+          "type": "RAW",
+          "_id": "6aba872dac16bfda8400bf22"
+        }
+      ],
+      "_id": "6aba872dac16bfda8400bf1d"
+    },
+    {
+      "name": "ffmpeg-archives/ffmpeg",
+      "hash": "b0fb4bcef9d4b5f7a77d2e4854f80d4ce3e43809bc29fd1f97caa1b467f96993",
+      "type": "RAW",
+      "platform": "WIN_X64",
+      "size": 54681842,
+      "required": false,
+      "members": [],
+      "_id": "6aba872dac16bfda8400bf27"
+    }
+  ]
+}
