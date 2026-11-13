@@ -18,6 +18,7 @@
 4. Click **Local Server** (Connection indicator turns green).
 5. Click **Start server** (Local server indicator turns green).
 6. Launch Minecraft 26.2 (Fabric) using the same Java 25.
+7. Minecraft may crash on the first launch. If the game crashes, please try launching it again. If the issue persists, please contact us.
 
 ## How to Download
 You can download [Here](https://github.com/SILENCE-SIMSOOL/SilencePolar/releases/download/3.4.9/SilencePolar-3.4.9.zip)!
