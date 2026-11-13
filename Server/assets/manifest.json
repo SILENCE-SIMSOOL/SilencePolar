@@ -1,329 +1,379 @@
 {
   "manifestVersion": 1,
-  "version": "probe-rekeyed5",
-  "channel": "release",
+  "version": "3.4.9",
+  "channel": "plus",
   "assets": [
     {
       "name": "skija-windows-x64-0.143.17.jar",
       "hash": "7178c082ec5ee800353f8740e6a3eee743240cfd9b1ed1494baebe4034b269bd",
+      "size": 10557374,
       "type": "LIBRARY",
       "platform": "WIN_X64",
-      "size": 10557374,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400beeb"
+      "members": []
+    },
+    {
+      "name": "skija-linux-x64-0.143.17.jar",
+      "hash": "8cb4ad7d9952016cc90fca1831711380ac202fae6afb0f40519be4f9b456bc67",
+      "size": 13336779,
+      "type": "LIBRARY",
+      "platform": "LINUX_X64",
+      "required": true,
+      "members": []
+    },
+    {
+      "name": "skija-linux-arm64-0.143.17.jar",
+      "hash": "937f117a87b974a3734b75dfe8081fa643d566a2daef085f33200095400b5c68",
+      "size": 13088123,
+      "type": "LIBRARY",
+      "platform": "LINUX_ARM64",
+      "required": true,
+      "members": []
+    },
+    {
+      "name": "skija-macos-x64-0.143.17.jar",
+      "hash": "54bd501d7da225b15a7aded416bfc7f33d360526a8af5dd20966864ea3805087",
+      "size": 11331597,
+      "type": "LIBRARY",
+      "platform": "MAC_X64",
+      "required": true,
+      "members": []
+    },
+    {
+      "name": "skija-macos-arm64-0.143.17.jar",
+      "hash": "0010e077bfe8fec4adfa776eb85c47c91f04f07eec1123abc9b6ccb2ba7a1e20",
+      "size": 10794473,
+      "type": "LIBRARY",
+      "platform": "MAC_ARM64",
+      "required": true,
+      "members": []
     },
     {
       "name": "lwjgl-nanovg-3.4.1.jar",
       "hash": "afdb36a2d747332c80a8feb33e165b5d781dea562723ad6425101cf026b9c26e",
+      "size": 82982,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 82982,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400bef0"
+      "members": []
     },
     {
       "name": "lwjgl-nanovg-3.4.1-natives-windows.jar",
       "hash": "880ae03ccdf9dbc0b3883002a423655ddc77480a2f7841cd2a62be8a5a340e25",
+      "size": 244005,
       "type": "LIBRARY",
       "platform": "WIN_X64",
-      "size": 244005,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400bef1"
+      "members": []
+    },
+    {
+      "name": "lwjgl-nanovg-3.4.1-natives-linux.jar",
+      "hash": "29962383b1edb8e11b4377b07f3b3de6cb0e039ad0d93c03e197a1bee7b091aa",
+      "size": 182400,
+      "type": "LIBRARY",
+      "platform": "LINUX_X64",
+      "required": true,
+      "members": []
+    },
+    {
+      "name": "lwjgl-nanovg-3.4.1-natives-macos.jar",
+      "hash": "09a188363cac2d85e571b2a96c314516ac1b41834158757376241afc41834655",
+      "size": 164375,
+      "type": "LIBRARY",
+      "platform": "MAC_X64",
+      "required": true,
+      "members": []
+    },
+    {
+      "name": "lwjgl-nanovg-3.4.1-natives-macos-arm64.jar",
+      "hash": "00477b4a830486fc6a50ca8c7e258e7b1e1700af19ca3dcce681b4df811c4e31",
+      "size": 141427,
+      "type": "LIBRARY",
+      "platform": "MAC_ARM64",
+      "required": true,
+      "members": []
     },
     {
       "name": "DiscordIPC-master.jar",
       "hash": "a5c31bfa31e8a33f1253b35649a3ef516fca5f3cb4859a5abf85abd4f4f5f6e8",
+      "size": 28613,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 28613,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400bef5"
+      "members": []
     },
     {
       "name": "skija-shared-0.143.17.jar",
       "hash": "6213e04a09853ff4a2a2ddc63554981bc5f57aa82cc795f4cd9167aca7edb042",
+      "size": 388825,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 388825,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400bef6"
+      "members": []
     },
     {
       "name": "lwjgl-3.4.1.jar",
       "hash": "9b1c3a3a078c2377219ecb8a2662730b3dece07c10592cf1d12f957286037b69",
+      "size": 1157957,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 1157957,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400bef7"
+      "members": []
     },
     {
       "name": "json-20231013.jar",
       "hash": "0f18192df289114e17aa1a0d0a7f8372cc9f5c7e4f7e39adcf8906fe714fa7d3",
+      "size": 74702,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 74702,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400bef8"
+      "members": []
     },
     {
       "name": "slf4j-api-2.0.7.jar",
       "hash": "5d6298b93a1905c32cda6478808ac14c2d4a47e91535e53c41f7feeb85d946f4",
+      "size": 63635,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 63635,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400bef9"
+      "members": []
     },
     {
       "name": "junixsocket-common-2.9.0.jar",
       "hash": "1f11fe54a7dfb0e410e24e787d33b48c07e7f4fe6514f49b63d60fd7b4770787",
+      "size": 1124059,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 1124059,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400befa"
+      "members": []
     },
     {
       "name": "junixsocket-native-common-2.9.0.jar",
       "hash": "03e9c1dbe920e4126877825bbe466bc6353b94017facfe337c57f4a8caa7eac3",
+      "size": 722053,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 722053,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400befb"
+      "members": []
     },
     {
       "name": "types-0.2.0.jar",
       "hash": "38d94d00770c4f261ffb50ee68d5da853c416c8fe7c57842f0e28049fc26cca8",
+      "size": 16218,
       "type": "LIBRARY",
       "platform": "ANY",
-      "size": 16218,
       "required": true,
-      "members": [],
-      "_id": "6aba872dac16bfda8400befc"
+      "members": []
     },
     {
       "name": "script-banners",
       "hash": "ba644e09a753a670e9a46986e09487ce6de9aab35638676cbcdb75e20060e539",
+      "size": 31169190,
       "type": "BUNDLE",
       "platform": "ANY",
-      "size": 31169190,
       "required": false,
       "members": [
         {
           "name": "script-banners/Agaricus",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400befe"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/AntiAFK",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400beff"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/ArrowDude",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf00"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Berberis",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf01"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Caducous",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf02"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/City",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf03"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Colleseum",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf04"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Combat",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf05"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/DwarvenComm",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf06"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Excavator",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf07"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Gemstone",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf08"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/GlaciteComm",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf09"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/HeartMiner",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf0a"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/IceAreaMine",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf0b"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/LeechBoss",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf0c"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/LobbyHopper",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf0d"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Lushlilac",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf0e"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/MODTools",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf0f"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/MiningBot",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf10"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Motes",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf11"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/MountainTop",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf12"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Powder",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf13"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Rabbit",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf14"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/RifthackerMan",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf15"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/RouteEditor",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf16"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/RouteWalker",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf17"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Scribe",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf18"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Sludge",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf19"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/Timite",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf1a"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/TinyDancer",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf1b"
+          "type": "IMAGE"
         },
         {
           "name": "script-banners/TreeArea",
-          "type": "IMAGE",
-          "_id": "6aba872dac16bfda8400bf1c"
+          "type": "IMAGE"
         }
-      ],
-      "_id": "6aba872dac16bfda8400befd"
+      ]
     },
     {
       "name": "failsafe-audio",
       "hash": "e6b3077a7f59c4b3b00ede35e3a469f57eed41441a506ea5bdda34af32594a9a",
+      "size": 2306602,
       "type": "BUNDLE",
       "platform": "ANY",
-      "size": 2306602,
       "required": false,
       "members": [
         {
           "name": "failsafe-audio/808-check",
-          "type": "RAW",
-          "_id": "6aba872dac16bfda8400bf1e"
+          "type": "RAW"
         },
         {
           "name": "failsafe-audio/ai-check",
-          "type": "RAW",
-          "_id": "6aba872dac16bfda8400bf1f"
+          "type": "RAW"
         },
         {
           "name": "failsafe-audio/brainwaves-check",
-          "type": "RAW",
-          "_id": "6aba872dac16bfda8400bf20"
+          "type": "RAW"
         },
         {
           "name": "failsafe-audio/france-check",
-          "type": "RAW",
-          "_id": "6aba872dac16bfda8400bf21"
+          "type": "RAW"
         },
         {
           "name": "failsafe-audio/remix-check",
-          "type": "RAW",
-          "_id": "6aba872dac16bfda8400bf22"
+          "type": "RAW"
         }
-      ],
-      "_id": "6aba872dac16bfda8400bf1d"
+      ]
+    },
+    {
+      "name": "ffmpeg-archives/ffmpeg",
+      "hash": "0e3a60df317df0bbfbe25e8b777864b5407d166e5b5ac692fb1e477568a4c886",
+      "size": 25285360,
+      "type": "RAW",
+      "platform": "LINUX_ARM64",
+      "required": false,
+      "members": []
+    },
+    {
+      "name": "ffmpeg-archives/ffmpeg",
+      "hash": "8bb4a27f5fd02f3dd9a5e75c9eddf6ace1d50a08929ee0d20bbf17eb467fb711",
+      "size": 29170850,
+      "type": "RAW",
+      "platform": "LINUX_X64",
+      "required": false,
+      "members": []
+    },
+    {
+      "name": "ffmpeg-archives/ffmpeg",
+      "hash": "cf3b793eed87eb9ecf211256e01481b634622f83034fad56b5db1b93eba785ec",
+      "size": 20213970,
+      "type": "RAW",
+      "platform": "MAC_ARM64",
+      "required": false,
+      "members": []
+    },
+    {
+      "name": "ffmpeg-archives/ffmpeg",
+      "hash": "ffcd56ce5ef50c4d36d675b0ee80674f5a0869f94746460ff5d058a33cbd3128",
+      "size": 25810979,
+      "type": "RAW",
+      "platform": "MAC_X64",
+      "required": false,
+      "members": []
     },
     {
       "name": "ffmpeg-archives/ffmpeg",
       "hash": "b0fb4bcef9d4b5f7a77d2e4854f80d4ce3e43809bc29fd1f97caa1b467f96993",
+      "size": 54681842,
       "type": "RAW",
       "platform": "WIN_X64",
-      "size": 54681842,
       "required": false,
-      "members": [],
-      "_id": "6aba872dac16bfda8400bf27"
+      "members": []
     }
-  ]
+  ],
+  "sig": "447d9ff0aadbf5de53bab641e97ea8c8764cc26c2616280be7c97b2a4d930ba0"
 }
