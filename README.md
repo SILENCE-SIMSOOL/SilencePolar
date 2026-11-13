@@ -19,4 +19,7 @@
 5. Click **Start server** (Local server indicator turns green).
 6. Launch Minecraft 26.2 (Fabric) using the same Java 25.
 
+## How to Download
+You can download [Here](https://github.com/SILENCE-SIMSOOL/SilencePolar/releases/download/3.4.9/SilencePolar-3.4.9.zip)!
+
 > To switch back to the original server, click **Polar Server**, stop the local server, and restart Minecraft.
