@@ -1,0 +1,38 @@
+{
+  "client_jar": "PolarClient.jar",
+  "stage2_password": "0",
+  "loader_salt": "343230643761356465393662393032336461396164653136",
+  "confirm_salt": "626562336637663064336463396431336339613861363636",
+  "region_bounds_file": "assets/data/regions.json",
+  "confirm_secret": "34333563633865613961383739656463363439383634626337336434373562656137363463386137363939346535356663376364353438356331303139363633",
+  "diagnostic_only": true,
+  "bridge_key": "ff3195cc60d4e52a93620ead94a1a6f221c97d90a27a9eaab486093500000000",
+  "loader_fields": [
+    "QjLBydXHLBt2JfNoN1FVwA==",
+    "8ef2b0fe220ce1483f7af19c27b7ada6b4984e4c4bd2188a2010717a32e4366b",
+    "3.4.9",
+    "plus",
+    "681ccd909e4937be81e3733ee1033f922c743088aa11610366af7536e81a480a",
+    "ESis3dFNndjTI1CVJ9Kg08eLtzndK6/eFFDFm6bJ2xrA=:0e6a35f12c994ea6b7cecc577f34a439b8610df4217c2e2cfe1c998d9e326f1c",
+    "HV0dmCej1zjFTWj5BRKrIA==",
+    "",
+    "release"
+  ],
+  "client_salt": "323933643761356464393662333032336461396364653337",
+  "client_fields": [
+    "3.141592653589793",
+    "0.00001",
+    "1",
+    "cb3c25108d83bac37eb7e8f229d71c3a3f69f3f837f3e2b5bb44879d2382d934",
+    "93d0f7c860746aca963318de5392cb0d2e412b0635257eb62c567d3859f5792f",
+    "I3ZlcnNpb24gMTIwCgp2b2lkIG1haW4oKSB7CiAgICBnbF9UZXhDb29yZFswXSA9IGdsX011bHRpVGV4Q29vcmQwOwogICAgZ2xfUG9zaXRpb24gPSBnbF9Nb2RlbFZpZXdQcm9qZWN0aW9uTWF0cml4ICogZ2xfVmVydGV4Owp9",
+    "0.5",
+    "42",
+    "0f5cafb2b9674a8389f61c3ef67defcaeb2665e88639a57cb3a918f98f8ef7da",
+    "86a15056d5e5924fe48de2bf72b77320"
+  ],
+  "world_archive_file": "assets/data/worlds/dwarven_mines.dat",
+  "stage2_payload_file": "assets/data/stage2_payload.bin",
+  "loader_password_suffix": "3464677631483774532f387744366a484852364561673d3d",
+  "approximate_regions": true
+}

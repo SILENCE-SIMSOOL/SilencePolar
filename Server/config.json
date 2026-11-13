@@ -1,0 +1,26 @@
+{
+    "startup_profile":  "startup-profile.private.json",
+    "certificate":  "tls/cert.der",
+    "loader_jar":  "PolarFabricLoader.jar",
+    "private_key":  "tls/key.der",
+    "force_loader_update":  false,
+    "plus":  true,
+    "minecraft_version_pattern":  "^26\\.2$",
+    "asset_manifest":  "assets/manifest.json",
+    "asset_signature_key_file":  "assets/manifest-key.bin",
+    "listen":  "127.0.0.1:443",
+    "approve":  true,
+    "loader_version":  "4.6",
+    "v4_auth_fields":  [
+                           "QjLBydXHLBt2JfNoN1FVwA==",
+                           "8ef2b0fe220ce1483f7af19c27b7ada6b4984e4c4bd2188a2010717a32e4366b",
+                           "3.4.9",
+                           "plus",
+                           "681ccd909e4937be81e3733ee1033f922c743088aa11610366af7536e81a480a",
+                           "ESis3dFNndjTI1CVJ9Kg08eLtzndK6/eFFDFm6bJ2xrA=:0e6a35f12c994ea6b7cecc577f34a439b8610df4217c2e2cfe1c998d9e326f1c",
+                           "HV0dmCej1zjFTWj5BRKrIA==",
+                           "",
+                           "release"
+                       ],
+    "v4_frame_plaintext_hex":  "c513ac4f8570c8a5eeae3d4db42394226d672de79da9b079f4d47190e7ed03fbdf92bb1fd1ed443ddbc4787339ac7efcf62bec7e83c8d61c423911b892351e6c30797423d9a119ca"
+}
